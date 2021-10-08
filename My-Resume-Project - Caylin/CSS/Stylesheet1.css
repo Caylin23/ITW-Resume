@@ -1,0 +1,104 @@
+body{     
+    font-family: sans-serif;
+}
+
+header{
+    justify-content: center;
+    text-align: center;
+}
+
+#Sidebar{
+    width: 20%;
+    background-color: rgb(59, 58, 58);
+    color: white;
+    text-align: center;  
+    position: absolute;     
+    }
+
+.Image{
+    width: 16vw;
+    height: 15vw;
+    border-radius: 100%;
+    border: 5px solid rgb(145, 12, 145) ;
+    margin-top: 7%;
+    margin-bottom: 10%;
+    
+}
+
+#Heading{
+    font-family: sans-serif;
+    font-size: 1vw;
+    color: white;
+    letter-spacing: 0.25rem;
+    background-color: black;
+    padding: 1%;
+    margin-left: 19.5%;    
+}
+
+#Name{
+    font-family: serif;
+    font-size: 4vw;
+    letter-spacing: 0.5rem;
+}
+
+#Jobtitle{
+    font-size: 1.2vw;
+}
+
+.Contact{
+    text-align: left;
+    margin-left: 10%;
+    line-height: 2;
+    letter-spacing: 0.1rem;
+    font-size: 1vw; 
+  
+}
+.Skills{
+    text-align: left;
+    margin-left: 10%;
+    line-height: 2;
+    letter-spacing: 0.1rem;
+    font-size: 1vw;
+}
+.Interests{
+    text-align: left;
+    margin-left: 10%;
+    line-height: 2;
+    letter-spacing: 0.1rem;
+    font-size: 1vw;
+
+}
+#Menusection{
+    text-align: left;
+    font-size: 1.1vw;
+    position: absolute;
+    margin-left: 24.5%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5vw;
+}
+
+hr{
+    width: 70vw;
+    border-top: 0.2vw solid grey;
+    margin-top: 1.5vw;    
+}
+#Content{
+    text-align: left;
+    font-size: 1vw;
+    position: absolute;
+    margin-left: 24.5%;
+    margin-top: 8.5%;
+    margin-bottom: 0.5vw;
+    letter-spacing: 0.1rem;
+    line-height: 1.5;
+}
+#Content2{
+    text-align: left;
+    font-size: 1vw;
+    position: absolute;
+    margin-left: 24.5%;
+    margin-top: 39vw;
+    letter-spacing: 0.1rem;
+    line-height: 1.5;
+    padding-bottom: 10%;
+}
